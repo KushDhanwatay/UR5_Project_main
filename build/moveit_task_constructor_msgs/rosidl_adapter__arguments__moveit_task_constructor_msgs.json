@@ -1,0 +1,16 @@
+{
+  "package_name": "moveit_task_constructor_msgs",
+  "non_idl_tuples": [
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/Property.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/Solution.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/SolutionInfo.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/StageDescription.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/StageStatistics.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/SubSolution.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/SubTrajectory.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/TaskDescription.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:msg/TaskStatistics.msg",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:srv/GetSolution.srv",
+    "/home/kush/UR5_Project_main/src/moveit_task_constructor/msgs:action/ExecuteTaskSolution.action"
+  ]
+}

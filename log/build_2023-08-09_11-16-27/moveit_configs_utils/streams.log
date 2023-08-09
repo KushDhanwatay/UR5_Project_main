@@ -1,0 +1,57 @@
+[2.407s] Invoking command in '/home/kush/UR5_Project_main/src/moveit2/moveit_configs_utils': AMENT_PREFIX_PATH=/home/kush/UR5_Project_main/install/srdfdom:/home/kush/UR5_Project_main/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kush/UR5_Project_main/install/srdfdom:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/kush/UR5_Project_main/install/srdfdom/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kush/UR5_Project_main/build/moveit_configs_utils/prefix_override:/home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages:/home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages:/home/kush/UR5_Project_main/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/moveit_configs_utils build --build-base /home/kush/UR5_Project_main/build/moveit_configs_utils/build install --record /home/kush/UR5_Project_main/build/moveit_configs_utils/install.log --single-version-externally-managed
+[3.486s] running egg_info
+[3.489s] creating ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info
+[3.490s] writing ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/PKG-INFO
+[3.491s] writing dependency_links to ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/dependency_links.txt
+[3.491s] writing entry points to ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/entry_points.txt
+[3.491s] writing requirements to ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/requires.txt
+[3.492s] writing top-level names to ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/top_level.txt
+[3.494s] writing manifest file '../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/SOURCES.txt'
+[3.507s] reading manifest file '../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/SOURCES.txt'
+[3.509s] writing manifest file '../../../build/moveit_configs_utils/moveit_configs_utils.egg-info/SOURCES.txt'
+[3.510s] running build
+[3.510s] running build_py
+[3.510s] creating /home/kush/UR5_Project_main/build/moveit_configs_utils/build
+[3.512s] creating /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib
+[3.512s] creating /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils
+[3.512s] copying moveit_configs_utils/__init__.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils
+[3.520s] copying moveit_configs_utils/launches.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils
+[3.521s] copying moveit_configs_utils/launch_utils.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils
+[3.521s] copying moveit_configs_utils/moveit_configs_builder.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils
+[3.522s] creating /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/substitutions
+[3.522s] copying moveit_configs_utils/substitutions/__init__.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/substitutions
+[3.522s] copying moveit_configs_utils/substitutions/xacro.py -> /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/substitutions
+[3.523s] running install
+[3.523s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.523s]   warnings.warn(
+[3.524s] running install_lib
+[3.526s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils
+[3.526s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/__init__.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils
+[3.526s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/launches.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils
+[3.527s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/launch_utils.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils
+[3.527s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/moveit_configs_builder.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils
+[3.527s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/substitutions
+[3.528s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/substitutions/__init__.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/substitutions
+[3.528s] copying /home/kush/UR5_Project_main/build/moveit_configs_utils/build/lib/moveit_configs_utils/substitutions/xacro.py -> /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/substitutions
+[3.535s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/__init__.py to __init__.cpython-310.pyc
+[3.535s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/launches.py to launches.cpython-310.pyc
+[3.539s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/launch_utils.py to launch_utils.cpython-310.pyc
+[3.540s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/moveit_configs_builder.py to moveit_configs_builder.cpython-310.pyc
+[3.545s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/substitutions/__init__.py to __init__.cpython-310.pyc
+[3.546s] byte-compiling /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils/substitutions/xacro.py to xacro.cpython-310.pyc
+[3.547s] running install_data
+[3.549s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/share/ament_index
+[3.550s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/share/ament_index/resource_index
+[3.550s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/share/ament_index/resource_index/packages
+[3.550s] copying resource/moveit_configs_utils -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/ament_index/resource_index/packages
+[3.551s] copying package.xml -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils
+[3.551s] creating /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils/default_configs
+[3.551s] copying default_configs/pilz_industrial_motion_planner_planning.yaml -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils/default_configs
+[3.551s] copying default_configs/ompl_defaults.yaml -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils/default_configs
+[3.552s] copying default_configs/ompl_planning.yaml -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils/default_configs
+[3.552s] copying default_configs/chomp_planning.yaml -> /home/kush/UR5_Project_main/install/moveit_configs_utils/share/moveit_configs_utils/default_configs
+[3.552s] running install_egg_info
+[3.557s] Copying ../../../build/moveit_configs_utils/moveit_configs_utils.egg-info to /home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages/moveit_configs_utils-2.5.3-py3.10.egg-info
+[3.559s] running install_scripts
+[3.740s] writing list of installed files to '/home/kush/UR5_Project_main/build/moveit_configs_utils/install.log'
+[3.925s] Invoked command in '/home/kush/UR5_Project_main/src/moveit2/moveit_configs_utils' returned '0': AMENT_PREFIX_PATH=/home/kush/UR5_Project_main/install/srdfdom:/home/kush/UR5_Project_main/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kush/UR5_Project_main/install/srdfdom:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/kush/UR5_Project_main/install/srdfdom/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kush/UR5_Project_main/build/moveit_configs_utils/prefix_override:/home/kush/UR5_Project_main/install/moveit_configs_utils/lib/python3.10/site-packages:/home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages:/home/kush/UR5_Project_main/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/moveit_configs_utils build --build-base /home/kush/UR5_Project_main/build/moveit_configs_utils/build install --record /home/kush/UR5_Project_main/build/moveit_configs_utils/install.log --single-version-externally-managed

@@ -1,0 +1,15 @@
+/home/kush/UR5_Project_main/install/moveit_plugins/share/ament_index/resource_index/package_run_dependencies/moveit_plugins
+/home/kush/UR5_Project_main/install/moveit_plugins/share/ament_index/resource_index/parent_prefix_path/moveit_plugins
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/environment/ament_prefix_path.sh
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/environment/ament_prefix_path.dsv
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/environment/path.sh
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/environment/path.dsv
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/local_setup.bash
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/local_setup.sh
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/local_setup.zsh
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/local_setup.dsv
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/package.dsv
+/home/kush/UR5_Project_main/install/moveit_plugins/share/ament_index/resource_index/packages/moveit_plugins
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/cmake/moveit_pluginsConfig.cmake
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/cmake/moveit_pluginsConfig-version.cmake
+/home/kush/UR5_Project_main/install/moveit_plugins/share/moveit_plugins/package.xml

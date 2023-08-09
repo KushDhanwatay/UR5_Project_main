@@ -1,0 +1,15 @@
+/home/kush/UR5_Project_main/install/moveit_ros/share/ament_index/resource_index/package_run_dependencies/moveit_ros
+/home/kush/UR5_Project_main/install/moveit_ros/share/ament_index/resource_index/parent_prefix_path/moveit_ros
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/environment/ament_prefix_path.sh
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/environment/ament_prefix_path.dsv
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/environment/path.sh
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/environment/path.dsv
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/local_setup.bash
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/local_setup.sh
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/local_setup.zsh
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/local_setup.dsv
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/package.dsv
+/home/kush/UR5_Project_main/install/moveit_ros/share/ament_index/resource_index/packages/moveit_ros
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/cmake/moveit_rosConfig.cmake
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/cmake/moveit_rosConfig-version.cmake
+/home/kush/UR5_Project_main/install/moveit_ros/share/moveit_ros/package.xml

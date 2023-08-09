@@ -1,0 +1,45 @@
+[1.078s] Invoking command in '/home/kush/UR5_Project_main/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/moveit_resources_panda_description -- -j4 -l4
+[1.862s] Invoked command in '/home/kush/UR5_Project_main/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/moveit_resources_panda_description -- -j4 -l4
+[1.955s] Invoking command in '/home/kush/UR5_Project_main/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/moveit_resources_panda_description
+[2.021s] -- Install configuration: "Release"
+[2.045s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/ament_index/resource_index/package_run_dependencies/moveit_resources_panda_description
+[2.048s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/ament_index/resource_index/parent_prefix_path/moveit_resources_panda_description
+[2.048s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.sh
+[2.048s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.dsv
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.sh
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.dsv
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.bash
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.sh
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.zsh
+[2.049s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.dsv
+[2.050s] -- Installing: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.dsv
+[2.116s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/ament_index/resource_index/packages/moveit_resources_panda_description
+[2.116s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake
+[2.116s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake
+[2.117s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.xml
+[2.118s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes
+[2.118s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual
+[2.118s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link1.dae
+[2.118s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link7.dae
+[2.118s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link2.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/finger.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link5.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link0.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link6.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link4.dae
+[2.119s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/hand.dae
+[2.120s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link3.dae
+[2.120s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision
+[2.121s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/finger.stl
+[2.122s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link3.stl
+[2.122s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link2.stl
+[2.122s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link7.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link4.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/hand.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link1.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link0.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link6.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link5.stl
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf
+[2.123s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf
+[2.124s] Invoked command in '/home/kush/UR5_Project_main/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/moveit_resources_panda_description

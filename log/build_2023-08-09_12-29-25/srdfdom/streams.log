@@ -1,0 +1,57 @@
+[0.192s] Invoking command in '/home/kush/UR5_Project_main/build/srdfdom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/srdfdom -- -j4 -l4
+[2.517s] [ 27%] Built target srdfdom
+[2.792s] [ 45%] Built target gtest
+[2.982s] [ 63%] Built target gtest_main
+[3.186s] [ 63%] Built target ament_cmake_python_copy_srdfdom
+[3.538s] [ 81%] Built target test_cpp_nl_NL.UTF-8
+[4.211s] running egg_info
+[4.212s] writing srdfdom.egg-info/PKG-INFO
+[4.212s] writing dependency_links to srdfdom.egg-info/dependency_links.txt
+[4.212s] writing top-level names to srdfdom.egg-info/top_level.txt
+[4.231s] reading manifest file 'srdfdom.egg-info/SOURCES.txt'
+[4.272s] writing manifest file 'srdfdom.egg-info/SOURCES.txt'
+[4.330s] [ 81%] Built target ament_cmake_python_build_srdfdom_egg
+[4.539s] [100%] Built target test_cpp_C
+[4.565s] Invoked command in '/home/kush/UR5_Project_main/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/srdfdom -- -j4 -l4
+[4.659s] Invoking command in '/home/kush/UR5_Project_main/build/srdfdom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/srdfdom
+[5.365s] -- Install configuration: "Release"
+[5.609s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/lib/libsrdfdom.so.2.0.4
+[5.610s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/lib/libsrdfdom.so
+[5.610s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/include/srdfdom
+[5.611s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/include/srdfdom/visibility_control.h
+[5.611s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/include/srdfdom/model.h
+[5.611s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/include/srdfdom/srdf_writer.h
+[5.611s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/lib/srdfdom/display_srdf
+[5.612s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/pythonpath.sh
+[5.612s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/pythonpath.dsv
+[5.612s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.4-py3.10.egg-info
+[5.612s] -- Installing: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.4-py3.10.egg-info/SOURCES.txt
+[5.612s] -- Installing: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.4-py3.10.egg-info/dependency_links.txt
+[5.612s] -- Installing: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.4-py3.10.egg-info/PKG-INFO
+[5.613s] -- Installing: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.4-py3.10.egg-info/top_level.txt
+[5.613s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom
+[5.613s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/__init__.py
+[5.613s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/srdf.py
+[6.099s] Listing '/home/kush/UR5_Project_main/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom'...
+[6.107s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/library_path.sh
+[6.108s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/library_path.dsv
+[6.108s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/ament_index/resource_index/package_run_dependencies/srdfdom
+[6.108s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/ament_index/resource_index/parent_prefix_path/srdfdom
+[6.108s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/ament_prefix_path.sh
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/ament_prefix_path.dsv
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/path.sh
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/environment/path.dsv
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/local_setup.bash
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/local_setup.sh
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/local_setup.zsh
+[6.109s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/local_setup.dsv
+[6.110s] -- Installing: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/package.dsv
+[6.125s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/ament_index/resource_index/packages/srdfdom
+[6.307s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport-release.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/ament_cmake_export_targets-extras.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/srdfdomConfig.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/cmake/srdfdomConfig-version.cmake
+[6.308s] -- Up-to-date: /home/kush/UR5_Project_main/install/srdfdom/share/srdfdom/package.xml
+[6.348s] Invoked command in '/home/kush/UR5_Project_main/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/srdfdom
