@@ -117,6 +117,7 @@
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/meshes/ur5/collision/wrist3.stl
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/meshes/ur5/collision/shoulder.stl
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/rviz/view_robot.rviz
+/home/kush/UR5_Project_main/install/ur_description/share/ur_description/urdf/ur5.urdf
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/urdf/ur_macro.xacro
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/urdf/ur.urdf.xacro
 /home/kush/UR5_Project_main/install/ur_description/share/ur_description/urdf/inc/ur_common.xacro
