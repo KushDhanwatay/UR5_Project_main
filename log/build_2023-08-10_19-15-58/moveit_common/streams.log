@@ -1,0 +1,23 @@
+[0.156s] Invoking command in '/home/kush/UR5_Project_main/build/moveit_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/moveit_common -- -j4 -l4
+[1.094s] Invoked command in '/home/kush/UR5_Project_main/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/moveit_common -- -j4 -l4
+[1.363s] Invoking command in '/home/kush/UR5_Project_main/build/moveit_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/moveit_common
+[1.406s] -- Install configuration: "Release"
+[1.406s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/ament_index/resource_index/package_run_dependencies/moveit_common
+[1.406s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/ament_index/resource_index/parent_prefix_path/moveit_common
+[1.406s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/environment/ament_prefix_path.sh
+[1.406s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/environment/ament_prefix_path.dsv
+[1.406s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/environment/path.sh
+[1.407s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/environment/path.dsv
+[1.407s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/local_setup.bash
+[1.407s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/local_setup.sh
+[1.407s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/local_setup.zsh
+[1.408s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/local_setup.dsv
+[1.408s] -- Installing: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/package.dsv
+[1.408s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/ament_index/resource_index/packages/moveit_common
+[1.414s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/cmake/moveit_common-extras.cmake
+[1.414s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig.cmake
+[1.415s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig-version.cmake
+[1.415s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/package.xml
+[1.415s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/cmake
+[1.415s] -- Up-to-date: /home/kush/UR5_Project_main/install/moveit_common/share/moveit_common/cmake/moveit_package.cmake
+[1.424s] Invoked command in '/home/kush/UR5_Project_main/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/moveit_common

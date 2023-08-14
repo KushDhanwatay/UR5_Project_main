@@ -1,0 +1,202 @@
+[0.091s] Invoking command in '/home/kush/UR5_Project_main/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/kush/UR5_Project_main/src/Universal_Robots_ROS2_Description -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/home/kush/UR5_Project_main/src/install/ur_description
+[0.362s] -- The C compiler identification is GNU 11.4.0
+[0.691s] -- The CXX compiler identification is GNU 11.4.0
+[0.760s] -- Detecting C compiler ABI info
+[1.171s] -- Detecting C compiler ABI info - done
+[1.244s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.251s] -- Detecting C compile features
+[1.251s] -- Detecting C compile features - done
+[1.257s] -- Detecting CXX compiler ABI info
+[1.695s] -- Detecting CXX compiler ABI info - done
+[1.731s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.732s] -- Detecting CXX compile features
+[1.733s] -- Detecting CXX compile features - done
+[1.764s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.616s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.253s] -- Found ament_cmake_pytest: 1.3.5 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[5.851s] -- Configuring done
+[5.860s] -- Generating done
+[5.862s] -- Build files have been written to: /home/kush/UR5_Project_main/src/build/ur_description
+[5.894s] Invoked command in '/home/kush/UR5_Project_main/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/kush/UR5_Project_main/src/Universal_Robots_ROS2_Description -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/home/kush/UR5_Project_main/src/install/ur_description
+[5.902s] Invoking command in '/home/kush/UR5_Project_main/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/src/build/ur_description -- -j4 -l4
+[6.290s] Invoked command in '/home/kush/UR5_Project_main/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/src/build/ur_description -- -j4 -l4
+[6.456s] Invoking command in '/home/kush/UR5_Project_main/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/src/build/ur_description
+[6.538s] -- Install configuration: "Debug"
+[6.540s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config
+[6.540s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10e
+[6.541s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10e/default_kinematics.yaml
+[6.560s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10e/physical_parameters.yaml
+[6.593s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10e/visual_parameters.yaml
+[6.616s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10e/joint_limits.yaml
+[6.618s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3e
+[6.618s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3e/default_kinematics.yaml
+[6.628s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3e/physical_parameters.yaml
+[6.628s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3e/visual_parameters.yaml
+[6.629s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3e/joint_limits.yaml
+[6.630s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur16e
+[6.630s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur16e/default_kinematics.yaml
+[6.630s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur16e/physical_parameters.yaml
+[6.631s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur16e/visual_parameters.yaml
+[6.631s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur16e/joint_limits.yaml
+[6.632s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5e
+[6.632s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5e/default_kinematics.yaml
+[6.632s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5e/physical_parameters.yaml
+[6.633s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5e/visual_parameters.yaml
+[6.634s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5e/joint_limits.yaml
+[6.634s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10
+[6.634s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10/default_kinematics.yaml
+[6.634s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10/physical_parameters.yaml
+[6.636s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10/visual_parameters.yaml
+[6.636s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur10/joint_limits.yaml
+[6.637s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3
+[6.637s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3/default_kinematics.yaml
+[6.637s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3/physical_parameters.yaml
+[6.638s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3/visual_parameters.yaml
+[6.638s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur3/joint_limits.yaml
+[6.638s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/initial_positions.yaml
+[6.638s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5
+[6.638s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5/default_kinematics.yaml
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5/physical_parameters.yaml
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5/visual_parameters.yaml
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/config/ur5/joint_limits.yaml
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/launch
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/launch/view_ur.launch.py
+[6.639s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes
+[6.640s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e
+[6.640s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual
+[6.640s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist2.dae
+[6.679s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist1.dae
+[6.718s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/shoulder.dae
+[6.769s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/forearm.dae
+[6.801s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/upperarm.dae
+[6.874s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/base.dae
+[6.897s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist3.dae
+[6.913s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision
+[6.916s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist2.stl
+[6.946s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/base.stl
+[6.961s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/forearm.stl
+[6.978s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/upperarm.stl
+[7.043s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist1.stl
+[7.048s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist3.stl
+[7.049s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10e/collision/shoulder.stl
+[7.082s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e
+[7.083s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual
+[7.083s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist2.dae
+[7.162s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist1.dae
+[7.258s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/shoulder.dae
+[7.337s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/forearm.dae
+[7.369s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/upperarm.dae
+[7.487s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/base.dae
+[7.502s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist3.dae
+[7.514s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision
+[7.516s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist2.stl
+[7.531s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/base.stl
+[7.540s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/forearm.stl
+[7.545s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/upperarm.stl
+[7.564s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist1.stl
+[7.569s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist3.stl
+[7.583s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3e/collision/shoulder.stl
+[7.599s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e
+[7.601s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/visual
+[7.603s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/visual/forearm.dae
+[7.654s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/visual/upperarm.dae
+[7.726s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/collision
+[7.726s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/collision/forearm.stl
+[7.732s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur16e/collision/upperarm.stl
+[7.752s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e
+[7.752s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual
+[7.753s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist2.dae
+[7.789s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist1.dae
+[7.915s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/shoulder.dae
+[7.998s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/forearm.dae
+[8.057s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/upperarm.dae
+[8.289s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/base.dae
+[8.409s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist3.dae
+[8.427s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision
+[8.428s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist2.stl
+[8.428s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/base.stl
+[8.445s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/forearm.stl
+[8.446s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/upperarm.stl
+[8.463s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist1.stl
+[8.470s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist3.stl
+[8.472s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5e/collision/shoulder.stl
+[8.498s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10
+[8.498s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual
+[8.498s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist2.dae
+[8.549s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist1.dae
+[8.586s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/shoulder.dae
+[8.616s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/forearm.dae
+[8.663s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/upperarm.dae
+[8.710s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/base.dae
+[8.722s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist3.dae
+[8.733s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision
+[8.735s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist2.stl
+[8.747s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/base.stl
+[8.781s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/forearm.stl
+[8.904s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/upperarm.stl
+[8.972s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist1.stl
+[8.973s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist3.stl
+[8.974s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur10/collision/shoulder.stl
+[9.041s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3
+[9.043s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual
+[9.043s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist2.dae
+[9.214s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist1.dae
+[9.279s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/shoulder.dae
+[9.444s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/forearm.dae
+[9.533s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/upperarm.dae
+[9.583s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/base.dae
+[9.611s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist3.dae
+[9.625s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision
+[9.627s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist2.stl
+[9.709s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/base.stl
+[9.780s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/forearm.stl
+[9.869s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/upperarm.stl
+[9.951s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist1.stl
+[10.002s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist3.stl
+[10.004s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur3/collision/shoulder.stl
+[10.045s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5
+[10.046s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual
+[10.047s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist2.dae
+[10.146s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist1.dae
+[10.299s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/shoulder.dae
+[10.434s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/forearm.dae
+[10.564s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/upperarm.dae
+[10.979s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/base.dae
+[11.051s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist3.dae
+[11.105s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision
+[11.106s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist2.stl
+[11.129s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/base.stl
+[11.137s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/forearm.stl
+[11.141s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/upperarm.stl
+[11.144s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist1.stl
+[11.145s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist3.stl
+[11.145s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/meshes/ur5/collision/shoulder.stl
+[11.147s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/rviz
+[11.148s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/rviz/view_robot.rviz
+[11.163s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf
+[11.163s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/ur5.urdf
+[11.163s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/ur_macro.xacro
+[11.164s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/ur.urdf.xacro
+[11.164s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/inc
+[11.164s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/inc/ur_common.xacro
+[11.165s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/inc/ur_transmissions.xacro
+[11.165s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/urdf/ur.ros2_control.xacro
+[11.165s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/test
+[11.165s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/test/test_view_ur_launch.py
+[11.166s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/test/test_ur_urdf_xacro.py
+[11.167s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ament_index/resource_index/package_run_dependencies/ur_description
+[11.168s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ament_index/resource_index/parent_prefix_path/ur_description
+[11.168s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/environment/ament_prefix_path.sh
+[11.168s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/environment/ament_prefix_path.dsv
+[11.169s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/environment/path.sh
+[11.169s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/environment/path.dsv
+[11.169s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/local_setup.bash
+[11.170s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/local_setup.sh
+[11.170s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/local_setup.zsh
+[11.173s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/local_setup.dsv
+[11.173s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/package.dsv
+[11.173s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ament_index/resource_index/packages/ur_description
+[11.173s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake
+[11.174s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake
+[11.174s] -- Installing: /home/kush/UR5_Project_main/src/install/ur_description/share/ur_description/package.xml
+[11.183s] Invoked command in '/home/kush/UR5_Project_main/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/src/build/ur_description

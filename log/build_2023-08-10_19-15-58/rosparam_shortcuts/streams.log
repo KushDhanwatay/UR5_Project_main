@@ -1,0 +1,43 @@
+[0.136s] Invoking command in '/home/kush/UR5_Project_main/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/rosparam_shortcuts -- -j4 -l4
+[1.010s] [ 15%] Built target gtest
+[1.013s] [ 30%] Built target gtest_main
+[1.304s] [ 53%] Built target rosparam_shortcuts
+[1.889s] [ 69%] Built target test_node_parameters
+[1.902s] [ 84%] Built target rosparam_shortcuts_node_parameters_example
+[1.958s] [100%] Built target rosparam_shortcuts_example
+[2.066s] Invoked command in '/home/kush/UR5_Project_main/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/rosparam_shortcuts -- -j4 -l4
+[2.733s] Invoking command in '/home/kush/UR5_Project_main/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/rosparam_shortcuts
+[2.818s] -- Install configuration: "Release"
+[2.836s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/lib/librosparam_shortcuts.so
+[2.910s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/lib/rosparam_shortcuts/example
+[3.015s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/lib/rosparam_shortcuts/node_parameters_example
+[3.016s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/include
+[3.017s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/include/rosparam_shortcuts
+[3.017s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/include/rosparam_shortcuts/node_parameters.h
+[3.018s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/include/rosparam_shortcuts/rosparam_shortcuts.h
+[3.019s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/launch
+[3.019s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/launch/example.launch.py
+[3.020s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/config
+[3.020s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/config/example.yaml
+[3.021s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.sh
+[3.021s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.dsv
+[3.028s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/ament_index/resource_index/package_run_dependencies/rosparam_shortcuts
+[3.029s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/ament_index/resource_index/parent_prefix_path/rosparam_shortcuts
+[3.029s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.sh
+[3.030s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.dsv
+[3.030s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.sh
+[3.031s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.dsv
+[3.032s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.bash
+[3.032s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.sh
+[3.032s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.zsh
+[3.033s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.dsv
+[3.033s] -- Installing: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/package.dsv
+[3.072s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/ament_index/resource_index/packages/rosparam_shortcuts
+[3.104s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport.cmake
+[3.106s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport-release.cmake
+[3.106s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_targets-extras.cmake
+[3.107s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.107s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig.cmake
+[3.108s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig-version.cmake
+[3.125s] -- Up-to-date: /home/kush/UR5_Project_main/install/rosparam_shortcuts/share/rosparam_shortcuts/package.xml
+[3.126s] Invoked command in '/home/kush/UR5_Project_main/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/kush/UR5_Project_main/build/rosparam_shortcuts

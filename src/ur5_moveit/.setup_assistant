@@ -7,7 +7,7 @@ moveit_setup_assistant_config:
   package_settings:
     author_name: Kush Dhanwatay
     author_email: k.dhanwatay@agmah.ai
-    generated_timestamp: 1691590352
+    generated_timestamp: 1691645748
   control_xacro:
     command:
       - position

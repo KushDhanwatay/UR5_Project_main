@@ -1,0 +1,52 @@
+[8.072s] Invoking command in '/home/kush/UR5_Project_main/src/launch_param_builder': PYTHONPATH=/home/kush/UR5_Project_main/src/build/launch_param_builder/prefix_override:/home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/launch_param_builder build --build-base /home/kush/UR5_Project_main/src/build/launch_param_builder/build install --record /home/kush/UR5_Project_main/src/build/launch_param_builder/install.log --single-version-externally-managed
+[8.921s] running egg_info
+[8.928s] creating ../build/launch_param_builder/launch_param_builder.egg-info
+[8.930s] writing ../build/launch_param_builder/launch_param_builder.egg-info/PKG-INFO
+[8.933s] writing dependency_links to ../build/launch_param_builder/launch_param_builder.egg-info/dependency_links.txt
+[8.937s] writing entry points to ../build/launch_param_builder/launch_param_builder.egg-info/entry_points.txt
+[8.937s] writing requirements to ../build/launch_param_builder/launch_param_builder.egg-info/requires.txt
+[8.939s] writing top-level names to ../build/launch_param_builder/launch_param_builder.egg-info/top_level.txt
+[8.941s] writing manifest file '../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[8.945s] reading manifest file '../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[8.950s] adding license file 'LICENSE'
+[8.959s] writing manifest file '../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[8.959s] running build
+[8.959s] running build_py
+[8.960s] creating /home/kush/UR5_Project_main/src/build/launch_param_builder/build
+[8.961s] creating /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib
+[8.961s] creating /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder
+[8.961s] copying launch_param_builder/__init__.py -> /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder
+[8.971s] copying launch_param_builder/launch_param_builder.py -> /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder
+[8.972s] copying launch_param_builder/utils.py -> /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder
+[8.974s] running install
+[8.988s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[8.989s]   warnings.warn(
+[8.992s] running install_lib
+[8.993s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[8.993s] copying /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder/__init__.py -> /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[8.994s] copying /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder/launch_param_builder.py -> /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[8.995s] copying /home/kush/UR5_Project_main/src/build/launch_param_builder/build/lib/launch_param_builder/utils.py -> /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[9.000s] byte-compiling /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/__init__.py to __init__.cpython-310.pyc
+[9.003s] byte-compiling /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/launch_param_builder.py to launch_param_builder.cpython-310.pyc
+[9.004s] byte-compiling /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/utils.py to utils.cpython-310.pyc
+[9.006s] running install_data
+[9.010s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/share/ament_index
+[9.011s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/share/ament_index/resource_index
+[9.013s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/share/ament_index/resource_index/packages
+[9.014s] copying resource/launch_param_builder -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/ament_index/resource_index/packages
+[9.015s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/launch
+[9.016s] copying example/launch_param_builder_example.launch.py -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/launch
+[9.018s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.019s] copying test/data/param_file_to_inject.yaml -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.030s] copying test/data/parameters.yaml -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.038s] copying test/data/parameters_injection.yaml -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.054s] copying test/data/parameter_file -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.057s] copying test/data/parameter.xacro -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder/config
+[9.070s] copying package.xml -> /home/kush/UR5_Project_main/src/install/launch_param_builder/share/launch_param_builder
+[9.073s] creating /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/launch_param_builder
+[9.074s] copying example/example_node.py -> /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/launch_param_builder
+[9.088s] running install_egg_info
+[9.098s] Copying ../build/launch_param_builder/launch_param_builder.egg-info to /home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder-0.1.1-py3.10.egg-info
+[9.100s] running install_scripts
+[9.157s] writing list of installed files to '/home/kush/UR5_Project_main/src/build/launch_param_builder/install.log'
+[9.236s] Invoked command in '/home/kush/UR5_Project_main/src/launch_param_builder' returned '0': PYTHONPATH=/home/kush/UR5_Project_main/src/build/launch_param_builder/prefix_override:/home/kush/UR5_Project_main/src/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/launch_param_builder build --build-base /home/kush/UR5_Project_main/src/build/launch_param_builder/build install --record /home/kush/UR5_Project_main/src/build/launch_param_builder/install.log --single-version-externally-managed

@@ -24,6 +24,7 @@
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/pilz_cartesian_limits.yaml
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/ur.srdf
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/ros2_controllers.yaml
+/home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/sensors_3d.yaml
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/ur.urdf.xacro
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/joint_limits.yaml
 /home/kush/UR5_Project_main/install/ur5_moveit/share/ur5_moveit/config/ur.ros2_control.xacro

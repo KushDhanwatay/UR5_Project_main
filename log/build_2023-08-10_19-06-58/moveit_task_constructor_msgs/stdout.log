@@ -1,0 +1,12 @@
+[  0%] Built target ament_cmake_python_copy_moveit_task_constructor_msgs
+[  0%] Built target moveit_task_constructor_msgs__cpp
+running egg_info
+writing moveit_task_constructor_msgs.egg-info/PKG-INFO
+writing dependency_links to moveit_task_constructor_msgs.egg-info/dependency_links.txt
+writing top-level names to moveit_task_constructor_msgs.egg-info/top_level.txt
+reading manifest file 'moveit_task_constructor_msgs.egg-info/SOURCES.txt'
+writing manifest file 'moveit_task_constructor_msgs.egg-info/SOURCES.txt'
+[  0%] Built target ament_cmake_python_build_moveit_task_constructor_msgs_egg
+[ 12%] Built target moveit_task_constructor_msgs__rosidl_generator_c
+[ 24%] Built target moveit_task_constructor_msgs__rosidl_typesupport_cpp
+[ 35%] Built target moveit_task_constructor_msgs__rosidl_typesupport_fastrtps_cpp

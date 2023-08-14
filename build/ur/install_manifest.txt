@@ -1,0 +1,15 @@
+/home/kush/UR5_Project_main/install/ur/share/ament_index/resource_index/package_run_dependencies/ur
+/home/kush/UR5_Project_main/install/ur/share/ament_index/resource_index/parent_prefix_path/ur
+/home/kush/UR5_Project_main/install/ur/share/ur/environment/ament_prefix_path.sh
+/home/kush/UR5_Project_main/install/ur/share/ur/environment/ament_prefix_path.dsv
+/home/kush/UR5_Project_main/install/ur/share/ur/environment/path.sh
+/home/kush/UR5_Project_main/install/ur/share/ur/environment/path.dsv
+/home/kush/UR5_Project_main/install/ur/share/ur/local_setup.bash
+/home/kush/UR5_Project_main/install/ur/share/ur/local_setup.sh
+/home/kush/UR5_Project_main/install/ur/share/ur/local_setup.zsh
+/home/kush/UR5_Project_main/install/ur/share/ur/local_setup.dsv
+/home/kush/UR5_Project_main/install/ur/share/ur/package.dsv
+/home/kush/UR5_Project_main/install/ur/share/ament_index/resource_index/packages/ur
+/home/kush/UR5_Project_main/install/ur/share/ur/cmake/urConfig.cmake
+/home/kush/UR5_Project_main/install/ur/share/ur/cmake/urConfig-version.cmake
+/home/kush/UR5_Project_main/install/ur/share/ur/package.xml

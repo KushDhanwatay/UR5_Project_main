@@ -1,0 +1,24 @@
+[0.263s] Invoking command in '/home/kush/UR5_Project_main/build/moveit_task_constructor_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kush/UR5_Project_main/install/moveit_configs_utils:/home/kush/UR5_Project_main/install/launch_param_builder:/home/kush/ws_moveit2_ur5/install/moveit_configs_utils:/home/kush/ws_moveit2_ur5/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/kush/UR5_Project_main/build/moveit_task_constructor_msgs -- -j4 -l4
+[2.108s] [  0%] Built target ament_cmake_python_copy_moveit_task_constructor_msgs
+[2.294s] [  0%] Built target moveit_task_constructor_msgs__cpp
+[3.173s] running egg_info
+[3.175s] writing moveit_task_constructor_msgs.egg-info/PKG-INFO
+[3.175s] writing dependency_links to moveit_task_constructor_msgs.egg-info/dependency_links.txt
+[3.176s] writing top-level names to moveit_task_constructor_msgs.egg-info/top_level.txt
+[3.181s] reading manifest file 'moveit_task_constructor_msgs.egg-info/SOURCES.txt'
+[3.236s] writing manifest file 'moveit_task_constructor_msgs.egg-info/SOURCES.txt'
+[3.324s] [  0%] Built target ament_cmake_python_build_moveit_task_constructor_msgs_egg
+[3.333s] [ 12%] Built target moveit_task_constructor_msgs__rosidl_generator_c
+[3.623s] [ 24%] Built target moveit_task_constructor_msgs__rosidl_typesupport_cpp
+[3.627s] [ 35%] Built target moveit_task_constructor_msgs__rosidl_typesupport_fastrtps_cpp
+[3.957s] gmake[2]: *** wait: No child processes.  Stop.
+[3.959s] gmake[2]: *** Waiting for unfinished jobs....
+[3.959s] gmake[2]: *** wait: No child processes.  Stop.
+[3.959s] gmake[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/moveit_task_constructor_msgs__rosidl_typesupport_c.dir/all] Error 2
+[3.963s] gmake[2]: *** [CMakeFiles/moveit_task_constructor_msgs__rosidl_typesupport_introspection_c.dir/build.make:607: CMakeFiles/moveit_task_constructor_msgs__rosidl_typesupport_introspection_c.dir/depend] Interrupt
+[3.964s] gmake[1]: *** [CMakeFiles/Makefile2:316: CMakeFiles/moveit_task_constructor_msgs__rosidl_typesupport_introspection_c.dir/all] Interrupt
+[4.012s] gmake[1]: *** [CMakeFiles/Makefile2:369: CMakeFiles/moveit_task_constructor_msgs__rosidl_typesupport_introspection_cpp.dir/all] Interrupt
+[4.012s] gmake[1]: *** wait: No child processes.  Stop.
+[4.013s] gmake[1]: *** Waiting for unfinished jobs....
+[4.013s] gmake[1]: *** wait: No child processes.  Stop.
+[4.013s] gmake: *** [Makefile:146: all] Error 2

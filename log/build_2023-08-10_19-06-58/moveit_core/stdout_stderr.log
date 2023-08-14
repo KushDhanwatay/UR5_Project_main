@@ -1,0 +1,5 @@
+gmake[1]: *** [CMakeFiles/Makefile2:951: distance_field/CMakeFiles/moveit_distance_field.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:1063: exceptions/CMakeFiles/moveit_exceptions.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:1089: kinematics_base/CMakeFiles/moveit_kinematics_base.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:2047: transforms/CMakeFiles/moveit_transforms.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt
